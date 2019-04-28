@@ -40,5 +40,5 @@ and two index variables `A` and `B`. It is a two-step process.
 
 ## Links
 
-[The Cyphersaber Page](http://ciphersaber.gurus.org/)
+[The Cyphersaber Page](http://ciphersaber.gurus.org/) <br/>
 [Wikipedia -- ARCFOUR](https://en.wikipedia.org/wiki/ARCFOUR)
